@@ -41,7 +41,12 @@ CONFIG.statusEffects = [
   "modules/conditions5e/icons/huntermark.svg",
   "modules/conditions5e/icons/hex.svg",
   "modules/conditions5e/icons/silenced.svg",
-  "modules/conditions5e/icons/rage.svg"
+  "modules/conditions5e/icons/rage.svg",
+  
+  "modules/conditions5e/icons/shieldoffaith.svg",
+  "modules/conditions5e/icons/halfcover.svg",
+  "modules/conditions5e/icons/threequarterscover.svg",
+  "modules/conditions5e/icons/fullcover.svg"
   
 ];
   
@@ -81,7 +86,13 @@ CONFIG.conditionTypes = {
   "huntermark": "Hunter's Mark",
   "hex": "Hex",
   "silenced": "Silenced",
-  "rage":"Rage"
+  "rage":"Rage",
+  "shieldoffaith":"Shield of Faith",
+  "halfcover":"Half Cover",
+  "threequarterscover":"Three-Quarters Cover",
+  "fullcover":"Full Cover"
+  
+  
   
   
 };
