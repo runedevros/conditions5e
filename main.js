@@ -30,7 +30,7 @@ CONFIG.statusEffects = [
   
   "modules/conditions5e/icons/heldaction.svg",
   "modules/conditions5e/icons/magearmor.svg",
-  "modules/conditions5e/icons/concentration.svg"
+  "modules/conditions5e/icons/concentration.svg",
   "modules/conditions5e/icons/bardicinspiration.svg"
   
 ];
