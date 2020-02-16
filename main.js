@@ -26,7 +26,13 @@ CONFIG.statusEffects = [
   "modules/conditions5e/icons/blinded.svg",
   "modules/conditions5e/icons/deafened.svg",
   "modules/conditions5e/icons/diseased.svg",
-  "modules/conditions5e/icons/exhaustion5.svg"
+  "modules/conditions5e/icons/exhaustion5.svg",
+  
+  "modules/conditions5e/icons/heldaction.svg",
+  "modules/conditions5e/icons/magearmor.svg",
+  "modules/conditions5e/icons/concentration.svg"
+  "modules/conditions5e/icons/bardicinspiration.svg"
+  
 ];
   
 // Condition Types
@@ -53,7 +59,12 @@ CONFIG.conditionTypes = {
   "restrained": "Restrained",
   "stunned": "Stunned",
   "unconscious": "Unconscious",
-  "wounded": "Wounded"
+  "wounded": "Wounded",
+  "heldaction": "Held Action",
+  "magearmor": "Mage Armor",
+  "concentration": "Concentration",
+  "bardicinspiration": "Bardic Inspiration"
+  
 };
 
   /**
