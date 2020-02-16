@@ -33,6 +33,16 @@ CONFIG.statusEffects = [
   "modules/conditions5e/icons/concentration.svg",
   "modules/conditions5e/icons/bardicinspiration.svg"
   
+  "modules/conditions5e/icons/slow.svg",
+  "modules/conditions5e/icons/fast.svg",
+  "modules/conditions5e/icons/barrel.svg",
+  "modules/conditions5e/icons/surprised.svg",
+  
+  "modules/conditions5e/icons/huntermark.svg",
+  "modules/conditions5e/icons/hex.svg",
+  "modules/conditions5e/icons/silenced.svg",
+  "modules/conditions5e/icons/rage.svg"
+  
 ];
   
 // Condition Types
@@ -63,7 +73,16 @@ CONFIG.conditionTypes = {
   "heldaction": "Held Action",
   "magearmor": "Mage Armor",
   "concentration": "Concentration",
-  "bardicinspiration": "Bardic Inspiration"
+  "bardicinspiration": "Bardic Inspiration",
+  "slow": "Slow",
+  "fast": "Haste",
+  "barrel": "Stealth",
+  "surprised": "Surprised",
+  "huntermark": "Hunter's Mark",
+  "hex": "Hex",
+  "silenced": "Silenced",
+  "rage":"Rage",
+  
   
 };
 
