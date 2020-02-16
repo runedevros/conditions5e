@@ -31,12 +31,12 @@ CONFIG.statusEffects = [
   "modules/conditions5e/icons/heldaction.svg",
   "modules/conditions5e/icons/magearmor.svg",
   "modules/conditions5e/icons/concentration.svg",
-  "modules/conditions5e/icons/bardicinspiration.svg"
+  "modules/conditions5e/icons/bardicinspiration.svg",
   
   "modules/conditions5e/icons/slow.svg",
   "modules/conditions5e/icons/fast.svg",
   "modules/conditions5e/icons/barrel.svg",
-  "modules/conditions5e/icons/surprised.svg",
+  "modules/conditions5e/icons/surprise.svg",
   
   "modules/conditions5e/icons/huntermark.svg",
   "modules/conditions5e/icons/hex.svg",
@@ -81,7 +81,7 @@ CONFIG.conditionTypes = {
   "huntermark": "Hunter's Mark",
   "hex": "Hex",
   "silenced": "Silenced",
-  "rage":"Rage",
+  "rage":"Rage"
   
   
 };
