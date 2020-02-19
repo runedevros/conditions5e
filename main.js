@@ -46,7 +46,13 @@ CONFIG.statusEffects = [
   "modules/conditions5e/icons/shieldoffaith.svg",
   "modules/conditions5e/icons/halfcover.svg",
   "modules/conditions5e/icons/threequarterscover.svg",
-  "modules/conditions5e/icons/fullcover.svg"
+  "modules/conditions5e/icons/fullcover.svg",
+  
+  "modules/conditions5e/icons/dodging.svg",
+  "modules/conditions5e/icons/faeriefire.svg",
+  "modules/conditions5e/icons/barkskin.svg",
+  "modules/conditions5e/icons/mirrorimage.svg"
+  
   
 ];
   
@@ -83,15 +89,18 @@ CONFIG.conditionTypes = {
   "fast": "Haste",
   "barrel": "Stealth",
   "surprised": "Surprised",
-  "huntermark": "Hunter's Mark",
+  "huntermark": "Marked",
   "hex": "Hex",
   "silenced": "Silenced",
   "rage":"Rage",
   "shieldoffaith":"Shield of Faith",
   "halfcover":"Half Cover",
   "threequarterscover":"Three-Quarters Cover",
-  "fullcover":"Full Cover"
-  
+  "fullcover":"Full Cover",
+  "dodging":"Dodge Action",
+  "faeriefire":"Faerie Fire",
+  "barkskin":"Barkskin",
+  "mirrorimage":"Mirror Image"
   
   
   
