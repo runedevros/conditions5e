@@ -41,14 +41,23 @@ CONFIG.statusEffects = [
   "modules/conditions5e/icons/huntermark.svg",
   "modules/conditions5e/icons/rage.svg",
   "modules/conditions5e/icons/shieldoffaith.svg",
-  "modules/conditions5e/icons/dodging.svg",
   "modules/conditions5e/icons/faeriefire.svg",
   "modules/conditions5e/icons/barkskin.svg",
+  "modules/conditions5e/icons/regen.svg",
 
+  "modules/conditions5e/icons/dodging.svg",
   "modules/conditions5e/icons/mirrorimage.svg",
+  "modules/conditions5e/icons/invisible.svg",
   "modules/conditions5e/icons/halfcover.svg",
   "modules/conditions5e/icons/threequarterscover.svg",
-  "modules/conditions5e/icons/fullcover.svg"
+  "modules/conditions5e/icons/fullcover.svg",
+  
+  "modules/conditions5e/icons/dice-six-faces-one.svg",
+  "modules/conditions5e/icons/dice-six-faces-two.svg",
+  "modules/conditions5e/icons/dice-six-faces-three.svg",
+  "modules/conditions5e/icons/dice-six-faces-four.svg",
+  "modules/conditions5e/icons/dice-six-faces-five.svg",
+  "modules/conditions5e/icons/dice-six-faces-six.svg"
   
   
 ];
