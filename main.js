@@ -6,52 +6,49 @@ CONFIG.statusEffects = [
   "modules/conditions5e/icons/dead.svg",
   "modules/conditions5e/icons/unconscious.svg",
   "modules/conditions5e/icons/stunned.svg",
-  "modules/conditions5e/icons/exhaustion1.svg",
-
   "modules/conditions5e/icons/incapacitated.svg",
   "modules/conditions5e/icons/paralyzed.svg",
   "modules/conditions5e/icons/petrified.svg",
+  
+  "modules/conditions5e/icons/exhaustion1.svg",
   "modules/conditions5e/icons/exhaustion2.svg",
-
+  "modules/conditions5e/icons/exhaustion3.svg",
+  "modules/conditions5e/icons/exhaustion4.svg",
+  "modules/conditions5e/icons/exhaustion5.svg",
+  "modules/conditions5e/icons/slow.svg",
+  
   "modules/conditions5e/icons/grappled.svg",
   "modules/conditions5e/icons/restrained.svg",
   "modules/conditions5e/icons/prone.svg",
-  "modules/conditions5e/icons/exhaustion3.svg",
-
   "modules/conditions5e/icons/charmed.svg",
   "modules/conditions5e/icons/frightened.svg",
   "modules/conditions5e/icons/poisoned.svg",
-  "modules/conditions5e/icons/exhaustion4.svg",
-
+  
   "modules/conditions5e/icons/blinded.svg",
   "modules/conditions5e/icons/deafened.svg",
   "modules/conditions5e/icons/diseased.svg",
-  "modules/conditions5e/icons/exhaustion5.svg",
+  "modules/conditions5e/icons/surprise.svg",
+  "modules/conditions5e/icons/hex.svg",
+  "modules/conditions5e/icons/silenced.svg",
   
   "modules/conditions5e/icons/heldaction.svg",
   "modules/conditions5e/icons/magearmor.svg",
   "modules/conditions5e/icons/concentration.svg",
   "modules/conditions5e/icons/bardicinspiration.svg",
-  
-  "modules/conditions5e/icons/slow.svg",
   "modules/conditions5e/icons/fast.svg",
   "modules/conditions5e/icons/barrel.svg",
-  "modules/conditions5e/icons/surprise.svg",
   
   "modules/conditions5e/icons/huntermark.svg",
-  "modules/conditions5e/icons/hex.svg",
-  "modules/conditions5e/icons/silenced.svg",
   "modules/conditions5e/icons/rage.svg",
-  
   "modules/conditions5e/icons/shieldoffaith.svg",
-  "modules/conditions5e/icons/halfcover.svg",
-  "modules/conditions5e/icons/threequarterscover.svg",
-  "modules/conditions5e/icons/fullcover.svg",
-  
   "modules/conditions5e/icons/dodging.svg",
   "modules/conditions5e/icons/faeriefire.svg",
   "modules/conditions5e/icons/barkskin.svg",
-  "modules/conditions5e/icons/mirrorimage.svg"
+
+  "modules/conditions5e/icons/mirrorimage.svg",
+  "modules/conditions5e/icons/halfcover.svg",
+  "modules/conditions5e/icons/threequarterscover.svg",
+  "modules/conditions5e/icons/fullcover.svg"
   
   
 ];
